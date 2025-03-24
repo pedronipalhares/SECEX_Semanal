@@ -1,0 +1,5 @@
+datasets/downloads/
+datasets/current/
+datasets/historicals/backups/
+*.xlsx
+*.csv 
