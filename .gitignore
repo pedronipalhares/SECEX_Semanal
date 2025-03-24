@@ -2,4 +2,5 @@ datasets/downloads/
 datasets/current/
 datasets/historicals/backups/
 *.xlsx
-*.csv 
+*.csv
+!datasets/historicals/*.csv 
